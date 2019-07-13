@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Vernekar.SingletonPattern/obj/Debug
+/Vernekar.FactoryMethod/obj/Debug
+/Vernekar.FacadeDesignPattern/obj/Debug
+/Vernekar.DecoratorDesignPattern/obj/Debug
+/Vernekar.BuilderDesignPattern/obj/Debug
+/Vernekar.AdaptorDesignPattern/obj/Debug
+/Vernekar.AbstractFactory/obj/Debug
