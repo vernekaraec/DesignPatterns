@@ -18,3 +18,7 @@ The sample of source code to describe the different types of Design Patterns
 
 
 Dear Code Lovers, Here is my intrest to share the various of commonly used design patterns for your application development and it would help you understand well with source code sample. Soon i will come up with other few design patterns, till then enjoy the coding! 
+
+Thanks and Regards, 
+
+Anant VERNEKAR
