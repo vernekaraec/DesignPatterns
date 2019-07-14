@@ -1,5 +1,4 @@
 ﻿
-
 namespace Vernekar.AdaptorDesignPattern.Adaptor
 {
     using System;

@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Vernekar.DecoratorDesignPattern.Component;
-
+﻿
 namespace Vernekar.DecoratorDesignPattern.ConcrateComponent
 {
+    using Vernekar.DecoratorDesignPattern.Component;
+
     public sealed class Honda : ICar
     {
         public Honda(string carName, string yearOfModel)

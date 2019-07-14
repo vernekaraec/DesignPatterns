@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Vernekar.FacadeDesignPattern.Subsystem;
-
+﻿
 namespace Vernekar.FacadeDesignPattern.Facade
 {
+    using Vernekar.FacadeDesignPattern.Subsystem;
+
     public class HomeFacade
     {
         private Lights _lights = null;

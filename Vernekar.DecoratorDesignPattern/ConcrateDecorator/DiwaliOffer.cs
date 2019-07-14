@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Vernekar.DecoratorDesignPattern.Component;
-using Vernekar.DecoratorDesignPattern.Decorator;
-
+﻿
 namespace Vernekar.DecoratorDesignPattern.ConcrateDecorator
 {
+    using Vernekar.DecoratorDesignPattern.Component;
+    using Vernekar.DecoratorDesignPattern.Decorator;
+
+
     public class DiwaliOffer : OfferDecorator
     {
         public DiwaliOffer(ICar car) : base(car)

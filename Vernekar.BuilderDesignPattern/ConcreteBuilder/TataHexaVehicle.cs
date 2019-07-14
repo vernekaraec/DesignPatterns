@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Vernekar.BuilderDesignPattern.Builder;
-using Vernekar.BuilderDesignPattern.Product;
-
+﻿
 namespace Vernekar.BuilderDesignPattern.ConcreteBuilder
 {
+    using Vernekar.BuilderDesignPattern.Builder;
+    using Vernekar.BuilderDesignPattern.Product;
+
     public sealed class TataHexaVehicle : IVehicleBuilder
     {
         private Vehicle _Vehicle = null;

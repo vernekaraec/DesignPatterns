@@ -10,8 +10,12 @@ namespace Vernekar.SingletonPattern
     {
         static void Main(string[] args)
         {
+            var u = SingletonLoggerLegacy.Instance;
+            u = SingletonLoggerLegacy.Instance;
+            u = SingletonLoggerLegacy.Instance;
+            u = SingletonLoggerLegacy.Instance;
+
             var v = SingletonLogger.SingletonLoggerInstance;
-            v = SingletonLogger.SingletonLoggerInstance;
             v = SingletonLogger.SingletonLoggerInstance;
             v = SingletonLogger.SingletonLoggerInstance;
             v = SingletonLogger.SingletonLoggerInstance;

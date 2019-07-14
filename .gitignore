@@ -9,3 +9,13 @@
 /Vernekar.BuilderDesignPattern/obj/Debug
 /Vernekar.AdaptorDesignPattern/obj/Debug
 /Vernekar.AbstractFactory/obj/Debug
+/Vernekar.StrategyPattern/obj/Debug
+/Vernekar.AbstractFactory/bin/Debug
+/Vernekar.AdaptorDesignPattern/bin/Debug
+/Vernekar.BuilderDesignPattern/bin/Debug
+/Vernekar.DecoratorDesignPattern/bin/Debug
+/Vernekar.FacadeDesignPattern/bin/Debug
+/Vernekar.FactoryMethod/bin/Debug
+/Vernekar.SingletonPattern/bin/Debug
+/.vs/Vernekar.DesignPatterns/v15
+/Vernekar.StrategyPattern/bin/Debug

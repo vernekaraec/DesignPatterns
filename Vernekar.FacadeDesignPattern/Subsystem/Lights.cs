@@ -1,11 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace Vernekar.FacadeDesignPattern.Subsystem
 {
+    using System;
+
     public class Lights
     {
         public void TurnOnLights()

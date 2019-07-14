@@ -1,15 +1,4 @@
-﻿#region Copyright FIME India Pvt Ltd 2017
-//
-// All rights are reserved. Reproduction or transmission in whole or in 
-// part, in any form or by any means, electronic, mechanical or otherwise, 
-// is prohibited without the prior written consent of the copyright owner.
-//
-// Filename : ExecutionHistoryDBMongoHelper.cs
-// Author   : FU939AVE
-// Date     : 02/22/2018 2:36:02 PM
-//
-#endregion
-
+﻿
 namespace Vernekar.BuilderDesignPattern.Builder
 {
     using Vernekar.BuilderDesignPattern.Product;

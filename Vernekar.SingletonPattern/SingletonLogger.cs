@@ -8,7 +8,7 @@ namespace Vernekar.SingletonPattern
 {
     public sealed class SingletonLogger
     {
-        private static readonly Lazy<SingletonLogger> singletonLoggerObj = new Lazy<SingletonLogger>(() => new SingletonLogger());
+        private static readonly Lazy<SingletonLogger> _singletonLoggerObj = new Lazy<SingletonLogger>(() => new SingletonLogger());
 
         private  SingletonLogger()
         {
@@ -19,7 +19,7 @@ namespace Vernekar.SingletonPattern
         {
             get
             {
-                return singletonLoggerObj.Value;
+                return _singletonLoggerObj.Value;
             }
         }
     }

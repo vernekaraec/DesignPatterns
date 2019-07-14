@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Vernekar.AbstractFactory.ConcrateFactory;
-using Vernekar.AbstractFactory.Factory;
-using Vernekar.AbstractFactory.Product;
-
+﻿
 namespace Vernekar.AbstractFactory
 {
+    using Vernekar.AbstractFactory.ConcrateFactory;
+    using Vernekar.AbstractFactory.Factory;
+    using Vernekar.AbstractFactory.Product;
+
     /// <summary>
     /// Represents the helper class to trigger the factory class
     /// </summary>

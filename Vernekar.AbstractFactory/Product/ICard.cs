@@ -1,4 +1,5 @@
-﻿namespace Vernekar.AbstractFactory.Product
+﻿
+namespace Vernekar.AbstractFactory.Product
 {
     /// <summary>
     /// Represents the Smard Card products
