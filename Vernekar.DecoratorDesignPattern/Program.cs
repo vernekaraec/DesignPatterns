@@ -10,6 +10,10 @@ using Vernekar.DecoratorDesignPattern.Decorator;
 
 namespace Vernekar.DecoratorDesignPattern
 {
+    /// <summary>
+    /// The decorator pattern is used to add new functionality to an existing object without changing its structure.
+    /// Attach additional responsibilities to an object dynamically
+    /// </summary>
     class Program
     {
         static void Main(string[] args)

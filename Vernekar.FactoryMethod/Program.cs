@@ -4,6 +4,9 @@ namespace Vernekar.FactoryMethod
     using System;
     using Vernekar.FactoryMethod.Product;
 
+    /// <summary>
+    /// Factory Method lets a class defer instantiation to subclasses. 
+    /// </summary>
     public class Program
     {
         static void Main(string[] args)

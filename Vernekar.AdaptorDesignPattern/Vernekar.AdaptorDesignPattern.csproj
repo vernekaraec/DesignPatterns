@@ -43,8 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Adaptee\CardLogAdaptor.cs" />
-    <Compile Include="Adaptor\NCRLogReader.cs" />
+    <Compile Include="Adaptor\CardLogAdaptor.cs" />
+    <Compile Include="Adaptee\NCRLogReader.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Target\IConvertor.cs" />

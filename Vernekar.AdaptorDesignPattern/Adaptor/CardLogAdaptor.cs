@@ -1,9 +1,9 @@
 ﻿
-namespace Vernekar.AdaptorDesignPattern.Adaptee
+namespace Vernekar.AdaptorDesignPattern.Adaptor
 {
     using System.Collections.Generic;
     using System.Linq;
-    using Vernekar.AdaptorDesignPattern.Adaptor;
+    using Vernekar.AdaptorDesignPattern.Adaptee;
     using Vernekar.AdaptorDesignPattern.Target;
 
     /// <summary>

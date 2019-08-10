@@ -1,5 +1,5 @@
 ﻿
-namespace Vernekar.AdaptorDesignPattern.Adaptor
+namespace Vernekar.AdaptorDesignPattern.Adaptee
 {
     using System;
 

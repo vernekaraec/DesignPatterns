@@ -4,7 +4,9 @@ namespace Vernekar.StrategyPattern
     using System;
     using Vernekar.StrategyPattern.ConcreteStrategy;
 
-
+    /// <summary>
+    /// When system want to completly independent from the client
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
