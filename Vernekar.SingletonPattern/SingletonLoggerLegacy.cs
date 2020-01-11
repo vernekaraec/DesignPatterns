@@ -11,7 +11,7 @@ namespace Vernekar.SingletonPattern
         private static readonly SingletonLoggerLegacy _singletonLoggerLegacy = new SingletonLoggerLegacy();
         private SingletonLoggerLegacy()
         {
-
+    
         }
 
         static SingletonLoggerLegacy()
